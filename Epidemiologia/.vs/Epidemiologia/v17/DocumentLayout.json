@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2213626B-731A-481B-93B0-516FD16C290A}|..\\Capa Entidad\\Capa Entidad.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa entidad\\registropaciente\\registropacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\controllers\\registropacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:controllers\\registropacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B952169-4F88-4EB2-8A69-55FC1A5BC830}|..\\Capa Logica\\Capa Logica.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa logica\\casos de uso\\registropaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B952169-4F88-4EB2-8A69-55FC1A5BC830}|..\\Capa Logica\\Capa Logica.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa logica\\serviciobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B952169-4F88-4EB2-8A69-55FC1A5BC830}|..\\Capa Logica\\Capa Logica.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa logica\\pacientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B952169-4F88-4EB2-8A69-55FC1A5BC830}|..\\Capa Logica\\Capa Logica.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa logica\\dispositivosmedicosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B952169-4F88-4EB2-8A69-55FC1A5BC830}|..\\Capa Logica\\Capa Logica.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B952169-4F88-4EB2-8A69-55FC1A5BC830}|..\\Capa Logica\\Capa Logica.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa logica\\capa logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACA3CD1-7F41-41A2-BAFC-F99AD25AD7F6}|..\\Capa Datos\\Capa Datos.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa datos\\repepidemiologiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACA3CD1-7F41-41A2-BAFC-F99AD25AD7F6}|..\\Capa Datos\\Capa Datos.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa datos\\capa datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2213626B-731A-481B-93B0-516FD16C290A}|..\\Capa Entidad\\Capa Entidad.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa entidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2213626B-731A-481B-93B0-516FD16C290A}|..\\Capa Entidad\\Capa Entidad.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa entidad\\capa entidad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2213626B-731A-481B-93B0-516FD16C290A}|..\\Capa Entidad\\Capa Entidad.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa entidad\\dispositivosmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2213626B-731A-481B-93B0-516FD16C290A}|..\\Capa Entidad\\Capa Entidad.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa entidad\\datosvigilancium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2213626B-731A-481B-93B0-516FD16C290A}|..\\Capa Entidad\\Capa Entidad.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa entidad\\serviciomicrobiologium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\epidemiologia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CBC3DD6-273D-4BB7-A3A1-7E9B39D4969C}|Epidemiologia.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACA3CD1-7F41-41A2-BAFC-F99AD25AD7F6}|..\\Capa Datos\\Capa Datos.csproj|c:\\users\\hdhvca\\documents\\git\\epidemiologia\\capa datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:48:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroPacienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\RegistroPaciente\\RegistroPacienteDTO.cs",
+              "RelativeDocumentMoniker": "..\\Capa Entidad\\RegistroPaciente\\RegistroPacienteDTO.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\RegistroPaciente\\RegistroPacienteDTO.cs",
+              "RelativeToolTip": "..\\Capa Entidad\\RegistroPaciente\\RegistroPacienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:36:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroPacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Controllers\\RegistroPacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistroPacienteController.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Controllers\\RegistroPacienteController.cs",
+              "RelativeToolTip": "Controllers\\RegistroPacienteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:31:35.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\CASOS DE USO\\RegistroPaciente.cs",
+              "RelativeDocumentMoniker": "..\\Capa Logica\\CASOS DE USO\\RegistroPaciente.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\CASOS DE USO\\RegistroPaciente.cs",
+              "RelativeToolTip": "..\\Capa Logica\\CASOS DE USO\\RegistroPaciente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:47:55.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioBL.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\ServicioBL.cs",
+              "RelativeDocumentMoniker": "..\\Capa Logica\\ServicioBL.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\ServicioBL.cs",
+              "RelativeToolTip": "..\\Capa Logica\\ServicioBL.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:31:25.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacienteBL.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\PacienteBL.cs",
+              "RelativeDocumentMoniker": "..\\Capa Logica\\PacienteBL.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\PacienteBL.cs",
+              "RelativeToolTip": "..\\Capa Logica\\PacienteBL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:23:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Capa Logica",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\Capa Logica.csproj",
+              "RelativeDocumentMoniker": "..\\Capa Logica\\Capa Logica.csproj",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\Capa Logica.csproj",
+              "RelativeToolTip": "..\\Capa Logica\\Capa Logica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:25:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Controllers\\PacienteController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:27:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Capa Logica\\Class1.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\Class1.cs",
+              "RelativeToolTip": "..\\Capa Logica\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:35:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DispositivosMedicosBL.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\DispositivosMedicosBL.cs",
+              "RelativeDocumentMoniker": "..\\Capa Logica\\DispositivosMedicosBL.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Logica\\DispositivosMedicosBL.cs",
+              "RelativeToolTip": "..\\Capa Logica\\DispositivosMedicosBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:48:25.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:58:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:58:19.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepEpidemiologiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Datos\\RepEpidemiologiaContext.cs",
+              "RelativeDocumentMoniker": "..\\Capa Datos\\RepEpidemiologiaContext.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Datos\\RepEpidemiologiaContext.cs",
+              "RelativeToolTip": "..\\Capa Datos\\RepEpidemiologiaContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:27:15.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Capa Datos",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Datos\\Capa Datos.csproj",
+              "RelativeDocumentMoniker": "..\\Capa Datos\\Capa Datos.csproj",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Datos\\Capa Datos.csproj",
+              "RelativeToolTip": "..\\Capa Datos\\Capa Datos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:03:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatosVigilancium.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\DatosVigilancium.cs",
+              "RelativeDocumentMoniker": "..\\Capa Entidad\\DatosVigilancium.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\DatosVigilancium.cs",
+              "RelativeToolTip": "..\\Capa Entidad\\DatosVigilancium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:27:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DispositivosMedico.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\DispositivosMedico.cs",
+              "RelativeDocumentMoniker": "..\\Capa Entidad\\DispositivosMedico.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\DispositivosMedico.cs",
+              "RelativeToolTip": "..\\Capa Entidad\\DispositivosMedico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:33:01.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Capa Entidad\\Class1.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\Class1.cs",
+              "RelativeToolTip": "..\\Capa Entidad\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:33:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Capa Entidad",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\Capa Entidad.csproj",
+              "RelativeDocumentMoniker": "..\\Capa Entidad\\Capa Entidad.csproj",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\Capa Entidad.csproj",
+              "RelativeToolTip": "..\\Capa Entidad\\Capa Entidad.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:03:09.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicioMicrobiologium.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\ServicioMicrobiologium.cs",
+              "RelativeDocumentMoniker": "..\\Capa Entidad\\ServicioMicrobiologium.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Entidad\\ServicioMicrobiologium.cs",
+              "RelativeToolTip": "..\\Capa Entidad\\ServicioMicrobiologium.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:47:33.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T14:37:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:32:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Epidemiologia\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T14:06:43.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Datos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Capa Datos\\Program.cs",
+              "ToolTip": "C:\\Users\\HDHVCA\\Documents\\git\\Epidemiologia\\Capa Datos\\Program.cs",
+              "RelativeToolTip": "..\\Capa Datos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:50:09.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
